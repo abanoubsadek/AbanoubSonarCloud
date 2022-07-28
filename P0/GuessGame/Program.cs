@@ -19,6 +19,9 @@ namespace GuessGame
                 Console.WriteLine("new line");
                 Console.WriteLine("new");
 
+                //hello
+
+
                 switch (initialGame)
                 {
                     case 1: //Random Number Game
