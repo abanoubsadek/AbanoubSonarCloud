@@ -18,7 +18,9 @@ namespace GuessGame
                 int initialGame = int.Parse(initial);
                 Console.WriteLine("new line");
                 Console.WriteLine("new");
+
                 //hello
+
 
                 switch (initialGame)
                 {
