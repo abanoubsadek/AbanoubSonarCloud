@@ -1,0 +1,15 @@
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/bin/Debug/net6.0/GuessGame
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/bin/Debug/net6.0/GuessGame.deps.json
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/bin/Debug/net6.0/GuessGame.runtimeconfig.json
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/bin/Debug/net6.0/GuessGame.dll
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/bin/Debug/net6.0/GuessGame.pdb
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.csproj.AssemblyReference.cache
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfoInputs.cache
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfo.cs
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.csproj.CoreCompileInputs.cache
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.dll
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/refint/GuessGame.dll
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.pdb
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/GuessGame.genruntimeconfig.cache
+/Users/abanoubfetaha/220705-UTA-NET/AbanoubS/P0/GuessGame/obj/Debug/net6.0/ref/GuessGame.dll
