@@ -16,8 +16,9 @@ namespace GuessGame
                 Console.WriteLine("0: Exit");
                 string initial = Console.ReadLine();
                 int initialGame = int.Parse(initial);
-                Concole.WriteLine("new line");
-                Concole.WriteLine("new");
+                Console.WriteLine("new line");
+                Console.WriteLine("new");
+                //hello
 
                 switch (initialGame)
                 {
